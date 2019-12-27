@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://img.pixers.pics/pho_wat(s3:700/FO/56/96/49/06/700_FO56964906_c0f7d2d35476b176ff5f5b8d7dce1bd4.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/vinilos-mantel-de-tela-a-cuadros-verde-real-alta-resolucion.jpg.jpgs");
+}
+
+#tabla {
+background-color: white;
+}
+img{
+display:block;
+margin:auto;
+}
